@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "import-fest-to-neo4j": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\psoszyns\\Downloads\\fest25\\fest25.xml\" LMV"
+    }
+  }
+}
