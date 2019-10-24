@@ -14,4 +14,4 @@ Neo4j desktop can be downloaded from: https://neo4j.com/download-center/#desktop
 
 Once a neo4j database are created and csv and cypher files are copied to import folder one can import these csv files by executing the following commando in cmd (in root folder of the database):
 
-type import\installfest.cypher | bin\cypher-shell.bat -u <username> -p <password>
+type import\installfest.cypher | bin\cypher-shell.bat -u username -p password
